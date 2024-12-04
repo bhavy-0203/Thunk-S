@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": "c738",
+            "title": "Product",
+            "price": 65
+        },
+        {
+            "id": "5684",
+            "title": "Product",
+            "price": 61
+        },
+        {
+            "id": "cd30",
+            "title": "Product",
+            "price": 17
+        },
+        {
+            "id": "5b23",
+            "title": "update",
+            "price": 7
+        },
+        {
+            "id": "98ba",
+            "title": "Product",
+            "price": 63
+        },
+        {
+            "id": "d4c7",
+            "title": "Product",
+            "price": 76
+        }
+    ]
+}
